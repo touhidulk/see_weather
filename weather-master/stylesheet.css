@@ -1,0 +1,20 @@
+*{
+    padding: 0%;
+    align-self: auto;
+
+
+}
+body{
+    padding-top: 10em;
+    background-color: blue;
+    color:whitesmoke;
+    text-align: center;
+}
+h1{
+    font-family: sans-serif;
+    font-size: 2em;
+}
+p{
+    font-family: sans-serif;
+    font-size: 1em;
+}
